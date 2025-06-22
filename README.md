@@ -138,6 +138,6 @@ Introduce transaction history and audit logs.
 Contributing
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. Ensure your code follows the existing structure and includes appropriate comments.
 Contact
-For questions or feedback, contact Muhammad Sami Choudhary at sami.mirza@gmail.com.
+For questions or feedback, contact Muhammad Sami Choudhary at samichakwal45@gmail.com.
 License
 Copyright © 2025 Muhammad Sami Choudhary. All rights reserved.
