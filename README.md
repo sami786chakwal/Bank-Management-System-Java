@@ -67,4 +67,5 @@ Transaction history
 GUI implementation
 
 © 2025 Muhammad Sami Choudhary
+
 📧 Contact: samichakwal45@gmail.com
