@@ -84,7 +84,7 @@ A Java IDE (e.g., IntelliJ IDEA, Eclipse) or a text editor with command-line com
 
 Steps:
 
-Clone the repository:git clone https://github.com/sami786chakwal/bank-management-system.git
+Clone the repository:git clone https://github.com/sami786chakwal/Bank-Management-System-Java.git
 
 
 Navigate to the project directory:cd bank-management-system
