@@ -24,24 +24,25 @@ A Java console application for secure banking operations with admin and manager 
 
 ## Installation  
 
-1. Clone the repo:  
+***1. Clone the repo:***
 ```bash  
 git clone https://github.com/sami786chakwal/Bank-Management-System-Java.git  
 cd Bank-Management-System-Java
 ```
-2.Compile and run:
+***2.Compile and run:***
 ```bash
 javac bankmanagementsystem/*.java  
 java bankmanagementsystem.BankManagementSystem
 ```
-3.Usage
+***3.Usage***
 Default Logins:
 
 Admin: ID 123, User: admin, Pass: admin
 
 Manager: ID 123, User: manager, Pass: manager
 ```bash
-Project Structure
+
+###Project Structure
 bankmanagementsystem/  
 ├── Account.java            # Base account class  
 ├── Admin.java              # Admin operations  
@@ -50,7 +51,7 @@ bankmanagementsystem/
 ├── SavingAccount.java      # Saving accounts  
 └── BankManagementSystem.java # Main app
 ```
-4.Security
+###4.Security
 Secure login system
 
 Input validation
@@ -59,7 +60,7 @@ Account locking
 
 ⚠️ Note: Data resets when program closes (max 5 accounts/admins).
 
-5.Future Plans
+###5.Future Plans
 Database integration
 
 Transaction history
